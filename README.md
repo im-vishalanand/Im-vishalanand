@@ -7,12 +7,12 @@ Hey there!
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">🤝 Connect with me on:</h3>
 <div align="left">
-<a href="https://linkedin.com/in/im-vishalanand" target="blank">
+<a href="https://linkedin.com/in/im-vishalanand" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://twitter.com/im_vishalanand" target="blank">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://twitter.com/im_vishalanand" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/></a>
 </div>
 
 <hr>
