@@ -36,11 +36,11 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-vishalanand&show_icons=true&locale=en" alt="im-vishalanand" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-vishalanand&show_icons=true&locale=en" alt="Im-vishalanand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-vishalanand&" alt="im-vishalanand" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Im-vishalanand&" alt="Im-vishalanand" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-vishalanand&show_icons=true&locale=en&layout=compact" alt="im-vishalanand" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Im-vishalanand&show_icons=true&locale=en&layout=compact" alt="Im-vishalanand" /></p>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
