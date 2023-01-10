@@ -20,8 +20,9 @@ Hey there!
 ## :man_technologist: About Me :
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech articles, read novels.
 - 🌱 I’m currently learning Java.
+- 🤝 Looking for some Open source contribution.
 
 
 
@@ -46,7 +47,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-<h3>⚡Feel free to reach out. Always interested in some good conversations!✌️</h3>
+<h3>⚡Feel free to reach out. Always interested in some intriguing conversations!✌️</h3>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Im-vishalanand&style=flat-square&color=blue" alt=""/>
