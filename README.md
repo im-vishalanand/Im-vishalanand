@@ -52,6 +52,12 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Im-vishalanand&style=flat-square&color=blue" alt=""/>
 </div>
-
+<!--
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Im-vishalanand">
+</a>
+<a href="https://github.com/Im-vishalanand?tab=followers"><img src="https://img.shields.io/github/followers/Im-vishalanand?label=Followers&style=social" alt="GitHub Badge"></a>
+-->
 
 
