@@ -49,7 +49,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 <h3>⚡Feel free to reach out. Always interested in some intriguing conversations!✌️</h3>
 
-<div align="cent er">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Im-vishalanand&style=flat-square&color=blue" alt=""/>
 </div>
 
