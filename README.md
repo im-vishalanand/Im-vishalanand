@@ -72,7 +72,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
