@@ -17,7 +17,7 @@
   <a href="https://dev.to/_______"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>-->
 </p>
 
-<!--
+
 <h3 align="left">🤝 Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/im-vishalanand" target="_blank">
@@ -25,7 +25,7 @@
 <a href="https://twitter.com/im_vishalanand" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
--->
+
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
