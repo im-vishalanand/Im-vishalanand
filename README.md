@@ -1,12 +1,22 @@
-<div align="center"><h1>
-Hey there!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1></div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<hr>
+
+<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</span>, My name is Vishal</h1>
+<h3 align="center">I am an Aspiring Full Stack Web Developer.</h3>
+
+<h3 align="center">🤝Connect with me on:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/im-vishalanand/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/im_vishalanand"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
+  <a href="https://______/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/_______"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>-->
+</p>
+
+<!--
 <h3 align="left">🤝 Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/im-vishalanand" target="_blank">
@@ -14,15 +24,21 @@ Hey there!
 <a href="https://twitter.com/im_vishalanand" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
+-->
 
-
+<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
 ## :man_technologist: About Me :
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :zap: In my free time, I read tech articles, read novels.
-- 🌱 I’m currently learning Java.
-- 🤝 Looking for some Open source contribution.
+- :zap: In my free time, I read tech articles, read novels
+- 🌱 I’m currently learning **Java**
+- 👯 I will be happy to collaborate on **Web Development Projects**
+- 👯 I am also looking for some **Open Source Oppurtunities**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/im-vishalanand?tab=repositories)**
+-  💬 Ask me about **HTML, CSS, JavaScript**
+- 📫 How to reach me **iam.vishalanand11.com**
+
 
 
 
