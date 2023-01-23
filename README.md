@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Vishal</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
@@ -57,10 +57,19 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
 </p>
 
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Im-vishalanand&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Im-vishalanand" align="left"></a>
+</p>
+
+<p align="right">
+<a href="https://github.com/Im-vishalanand?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Im-vishalanand github-readme-stats"/></a>
+<a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Im-vishalanand github-readme-streak-stats"/></a>
+</p>
+
+
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
