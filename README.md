@@ -12,21 +12,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/im-vishalanand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/im_vishalanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
-  <a href="https://______/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/_______"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>-->
+<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
 </p>
-
-<!--
-<h3 align="left">🤝 Connect with me on:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/im-vishalanand" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://twitter.com/im_vishalanand" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-</p>
--->
-
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
@@ -69,9 +56,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <a href="https://github.com/Im-vishalanand?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Im-vishalanand github-readme-streak-stats"/></a>
 </p>
 
-
-
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Im_vishalanand)](https://twitter.com/Im_vishalanand)
 
@@ -87,5 +71,3 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </div>
 
 <!--![image](https://user-images.githubusercontent.com/108060013/211838121-d7c95a27-7472-470c-a969-d460548149c6.png)-->
-
-
