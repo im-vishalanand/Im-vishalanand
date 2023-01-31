@@ -27,6 +27,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/im-vishalanand?tab=repositories)**
+- 🪢 Know more about me **[here](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
 -  💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me **iam.vishalanand11@gmail.com**
 
