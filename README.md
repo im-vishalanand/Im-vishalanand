@@ -26,7 +26,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I read tech articles, read novels
 - 🌱 I’m currently learning **Java**
-- 👯 I will be happy to collaborate on **Web Development Projects**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/im-vishalanand?tab=repositories)**
