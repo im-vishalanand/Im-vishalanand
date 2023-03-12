@@ -25,7 +25,7 @@
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :zap: In my free time, I read tech articles, read novels
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://im-vishalanand.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/im-vishalanand?tab=repositories)**
