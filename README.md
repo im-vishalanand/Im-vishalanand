@@ -52,7 +52,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
-<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> -->
 
 
 ## 📊 GitHub Stats:
