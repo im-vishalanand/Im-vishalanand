@@ -53,12 +53,12 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Stats:
 <p align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="Im-vishalanand" align="left"></a>
 </p>
-
+-->
 <!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-vishalanand&theme=gotham&hide_border=true&layout=compact&langs_count=6)
 ![github-stats1](https://github-readme-stats.vercel.app/api?username=Im-vishalanand&theme=gotham&show_icons=true&count_private=true&hide_border=true)
 ![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=Im-vishalanand&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
